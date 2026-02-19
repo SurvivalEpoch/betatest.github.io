@@ -1,5 +1,5 @@
 {
-  "url": "ghost://web3.node/",
+  "url": "https://web3.node/",
   "name": "Моё TON приложение",
   "iconUrl": "https://survivalepoch.github.io/betatest.github.io/icon.png"
 }
